@@ -1,1 +1,3 @@
 # reliability-grid-code-optimization
+
+Code for data preparation and analysis, distribution fitting, optimization, sensitivity analysis, and plotting for project titled "Refinement of Reliability Grid Codes in the Provision of Ancillary Services" 2026, submitted to ....
