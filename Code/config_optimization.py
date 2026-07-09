@@ -9,8 +9,7 @@ from matplotlib.lines import Line2D
 from matplotlib.patches import Patch
 
 # Path for saving figures
-save_fig_path = "Latex\\686fa94c623cde79680deee6\\"
-# save_fig_path = "Output\\"
+save_fig_path = "Output\\"
 save_fig_bool = False
 
 # Ranges
