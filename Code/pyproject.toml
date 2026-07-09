@@ -1,0 +1,19 @@
+[project]
+name = "code"
+version = "0.1.0"
+description = "Optimizing reliability"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dill>=0.4.1",
+    "fitter>=1.8.0",
+    "gurobipy>=13.0.1",
+    "ipykernel>=7.2.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "requests>=2.33.1",
+    "scienceplots>=2.2.1",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    ]

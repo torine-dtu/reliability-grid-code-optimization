@@ -1,0 +1,314 @@
+{
+    "0": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.0009345974643156566,
+            "gamma": 2.1529829829829827,
+            "quantile": 81.01471361256624
+        },
+        "errors": {
+            "nll": 163.6315439082338,
+            "ks_statistic": 0.06976744186046512,
+            "ks_pvalue": 0.9999670303234552
+        }
+    },
+    "1": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.018356366597714176,
+            "gamma": 1.4316716716716718,
+            "quantile": 53.610936468377425
+        },
+        "errors": {
+            "nll": 156.0328907074815,
+            "ks_statistic": 0.16279069767441862,
+            "ks_pvalue": 0.6249070014938026
+        }
+    },
+    "2": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.02496009060692506,
+            "gamma": 1.2520920920920922,
+            "quantile": 49.57755493976112
+        },
+        "errors": {
+            "nll": 165.4182573520636,
+            "ks_statistic": 0.06976744186046512,
+            "ks_pvalue": 0.9999670303234552
+        }
+    },
+    "3": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.022884912956996496,
+            "gamma": 1.2341341341341343,
+            "quantile": 54.64903052405261
+        },
+        "errors": {
+            "nll": 170.53592218670417,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "4": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.014592702068271658,
+            "gamma": 1.320930930930931,
+            "quantile": 59.16
+        },
+        "errors": {
+            "nll": 175.14866148083377,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "5": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.016610958445000646,
+            "gamma": 1.377797797797798,
+            "quantile": 49.199999999999996
+        },
+        "errors": {
+            "nll": 163.96801924131498,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "6": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.016712984502931134,
+            "gamma": 1.5244544544544547,
+            "quantile": 43.862342389856146
+        },
+        "errors": {
+            "nll": 149.8811893876624,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "7": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.014817944351200459,
+            "gamma": 1.3987487487487489,
+            "quantile": 39.211339432584964
+        },
+        "errors": {
+            "nll": 165.84393818623514,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "8": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.02076128945358178,
+            "gamma": 1.404734734734735,
+            "quantile": 35.159641702749056
+        },
+        "errors": {
+            "nll": 154.60146980170174,
+            "ks_statistic": 0.09302325581395349,
+            "ks_pvalue": 0.993566291599337
+        }
+    },
+    "9": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.03152672388595144,
+            "gamma": 1.296986986986987,
+            "quantile": 38.04
+        },
+        "errors": {
+            "nll": 152.66102470820226,
+            "ks_statistic": 0.13953488372093023,
+            "ks_pvalue": 0.8029323753937533
+        }
+    },
+    "10": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.005264643773464139,
+            "gamma": 1.832732732732733,
+            "quantile": 27.74671261975571
+        },
+        "errors": {
+            "nll": 152.69046397145001,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "11": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.014067371511715582,
+            "gamma": 1.4795595595595596,
+            "quantile": 37.951329264715895
+        },
+        "errors": {
+            "nll": 158.44180597001693,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "12": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.026571947514144337,
+            "gamma": 1.1952252252252253,
+            "quantile": 40.62
+        },
+        "errors": {
+            "nll": 170.43733436745686,
+            "ks_statistic": 0.13953488372093023,
+            "ks_pvalue": 0.8029323753937533
+        }
+    },
+    "13": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.02764599473578958,
+            "gamma": 1.3329029029029031,
+            "quantile": 29.7973611836247
+        },
+        "errors": {
+            "nll": 153.06037997245107,
+            "ks_statistic": 0.13953488372093023,
+            "ks_pvalue": 0.8029323753937533
+        }
+    },
+    "14": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.006422875772594715,
+            "gamma": 1.6172372372372374,
+            "quantile": 37.14
+        },
+        "errors": {
+            "nll": 167.71610696639038,
+            "ks_statistic": 0.16279069767441862,
+            "ks_pvalue": 0.6249070014938026
+        }
+    },
+    "15": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.011808911879934785,
+            "gamma": 1.338888888888889,
+            "quantile": 71.88
+        },
+        "errors": {
+            "nll": 179.31950620327984,
+            "ks_statistic": 0.06976744186046512,
+            "ks_pvalue": 0.9999670303234552
+        }
+    },
+    "16": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.010609009805446868,
+            "gamma": 1.365825825825826,
+            "quantile": 64.20796199497961
+        },
+        "errors": {
+            "nll": 179.58702275772146,
+            "ks_statistic": 0.09302325581395349,
+            "ks_pvalue": 0.993566291599337
+        }
+    },
+    "17": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.009888215277575156,
+            "gamma": 1.4616016016016018,
+            "quantile": 66.32128315862568
+        },
+        "errors": {
+            "nll": 171.10774635640317,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "18": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.01740412629151348,
+            "gamma": 1.3987487487487489,
+            "quantile": 52.559999999999995
+        },
+        "errors": {
+            "nll": 160.55844891458776,
+            "ks_statistic": 0.09302325581395349,
+            "ks_pvalue": 0.993566291599337
+        }
+    },
+    "19": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.014135095276881383,
+            "gamma": 1.3957557557557558,
+            "quantile": 53.325504187621824
+        },
+        "errors": {
+            "nll": 168.0874508434691,
+            "ks_statistic": 0.16279069767441862,
+            "ks_pvalue": 0.6249070014938026
+        }
+    },
+    "20": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.014274047282193445,
+            "gamma": 1.3957557557557558,
+            "quantile": 41.940000000000005
+        },
+        "errors": {
+            "nll": 167.22173114773335,
+            "ks_statistic": 0.09302325581395349,
+            "ks_pvalue": 0.993566291599337
+        }
+    },
+    "21": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.009245553191261942,
+            "gamma": 1.5064964964964966,
+            "quantile": 44.93867738815327
+        },
+        "errors": {
+            "nll": 168.36979906464785,
+            "ks_statistic": 0.11627906976744186,
+            "ks_pvalue": 0.9377161273776224
+        }
+    },
+    "22": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.006708207357459386,
+            "gamma": 1.4406506506506507,
+            "quantile": 100.80665228136442
+        },
+        "errors": {
+            "nll": 184.3193320469201,
+            "ks_statistic": 0.06976744186046512,
+            "ks_pvalue": 0.9999670303234552
+        }
+    },
+    "23": {
+        "distribution": "truncated weibull",
+        "parameters": {
+            "kappa": 0.007378298744372757,
+            "gamma": 1.380790790790791,
+            "quantile": 89.51280773202363
+        },
+        "errors": {
+            "nll": 188.80065516922025,
+            "ks_statistic": 0.13953488372093023,
+            "ks_pvalue": 0.8029323753937533
+        }
+    }
+}
